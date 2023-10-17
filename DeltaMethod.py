@@ -5,7 +5,7 @@ def read_sample(file_path):
     sample = np.loadtxt(file_path)
     return sample
 
-def delta_method_confidence_interval(data, percentile):
+def delta_method_confidence_interval(data, percentile):     #бред обычный наивный подход, не дельтам метод
     sorted_data = np.sort(data)
     n = len(sorted_data)
     index = int((n - 1) * percentile)
