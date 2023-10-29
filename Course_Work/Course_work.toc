@@ -1,0 +1,18 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1.\hskip 1em}ОТЗЫВ}{2}{section.0.1}%
+\contentsline {section}{\numberline {2.\hskip 1em}ВВЕДЕНИЕ}{4}{section.0.2}%
+\contentsline {subsection}{\numberline {2.1.\hskip 1em}Задачи}{4}{subsection.0.2.1}%
+\contentsline {section}{\numberline {3.\hskip 1em}ОСНОВНАЯ ЧАСТЬ}{6}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1.\hskip 1em}Наивный подход}{6}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {3.2.\hskip 1em}Bootstrap}{8}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {3.3.\hskip 1em}Дельта подход}{9}{subsection.0.3.3}%
+\contentsline {section}{\numberline {4.\hskip 1em}Page loading Problem}{12}{section.0.4}%
+\contentsline {subsection}{\numberline {4.1.\hskip 1em}Описание задачи и переменных}{12}{subsection.0.4.1}%
+\contentsline {subsubsection}{Подведение итогов:}{18}{section*.8}%
+\contentsline {section}{\numberline {5.\hskip 1em}Маркетинговая задача}{19}{section.0.5}%
+\contentsline {subsection}{\numberline {5.1.\hskip 1em}1.Основа проекта}{19}{subsection.0.5.1}%
+\contentsline {subsection}{\numberline {5.2.\hskip 1em}2.Подготовка данных}{21}{subsection.0.5.2}%
+\contentsline {subsection}{\numberline {5.3.\hskip 1em}Bootstrap}{24}{subsection.0.5.3}%
+\contentsline {section}{\numberline {6.\hskip 1em}ЗАКЛЮЧЕНИЕ}{26}{section.0.6}%
+\contentsline {section}{\numberline {7.\hskip 1em}ПРИЛОЖЕНИЯ}{27}{section.0.7}%
+\contentsline {section}{\numberline {8.\hskip 1em}ИСТОЧНИКИ}{30}{section.0.8}%
